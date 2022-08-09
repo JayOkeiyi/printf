@@ -1,1 +1,1 @@
-Team project "printf"
+Printf Team Project
